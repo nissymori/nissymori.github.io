@@ -1,11 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Soichiro Nishimori",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "nishimori@ms.k.utokyo.ac.jp",
+    "url": "https://nissymori.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
@@ -16,9 +15,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Twitter (X)",
+        "username": "nissymori1",
+        "url": "https://twitter.com/nissymori1"
       }
     ]
   },
