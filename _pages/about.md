@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [CV](https://nissymori.github.io/assets/pdf/CV.pdf) / [Google Scholar](https://scholar.google.co.jp/citations?user=swJkeuUAAAAJ&hl=ja&oi=ao) / [GitHub](https://github.com/nissymori) / [Twitter (X)](https://twitter.com/nissymori1)
+subtitle: <a href='https://nissymori.github.io/assets/pdf/CV.pdf'>CV</a> / <a href='https://scholar.google.co.jp/citations?user=swJkeuUAAAAJ&hl=ja&oi=ao'>Google Scholar</a> / <a href='https://github.com/nissymori'>GitHub</a> / <a href='https://twitter.com/nissymori1'>Twitter (X)</a>
 
 profile:
   align: left
