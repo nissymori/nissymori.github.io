@@ -52,18 +52,13 @@
       "courses": ["Complexity Science"]
     }
   ],
-  "publications": [
-  ],
+  "publications": [],
   "skills": [
     {
       "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "JAX",
-        "PyTorch"
-      ]
+      "keywords": ["Python", "JAX", "PyTorch"]
     }
   ],
   "languages": [
@@ -82,21 +77,12 @@
     {
       "name": "Reinforcement Learning",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Generalization in RL",
-        "Statistical RL",
-        "Weakly Supervised RL"
-      ]
+      "keywords": ["Generalization in RL", "Statistical RL", "Weakly Supervised RL", "Model-based RL"]
     },
     {
       "name": "Game AI",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "AlphaZero",
-        "Monte Carlo Tree Search",
-        "Game Theory",
-        "Mahjong AI"
-      ]
+      "keywords": ["AlphaZero", "Monte Carlo Tree Search", "Game Theory", "Mahjong AI"]
     }
   ]
 }
