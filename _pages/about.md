@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: [CV](https://nissymori.github.io/assets/pdf/CV.pdf) / [Google Scholar](https://scholar.google.co.jp/citations?user=swJkeuUAAAAJ&hl=ja&oi=ao) / [GitHub](https://github.com/nissymori) / [Twitter (X)](https://twitter.com/nissymori1)
 
 profile:
   align: left
@@ -14,4 +14,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Meet Soichiro Nishimori, a pioneering scientist and PhD student at The University of Tokyo, where he melds statistics with reinforcement learning to forge new paths in science and technology. With a foundation in neuroscience and artificial intelligence from Kyoto University, Soichiro has honed his skills in programming and collaborative research through roles at OMRON SINIC X and the RIKEN Center for Advanced Intelligence Project. Fluent in Japanese and English, his work navigates the complexities of reinforcement learning and Game AI. Dive into Soichiro's world of innovation and discovery.
+I am Soichiro Nishimori, a 1st year PhD student at [Sugiyama-Yokoya-Ishida lab](https://www.ms.k.u-tokyo.ac.jp/) supervised by [Prof. Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/index.html). Also I am a member of [Geoinformatics Team](https://www.riken.jp/en/research/labs/aip/goalorient_tech/geoinf/index.html) at [RIKEN AIP](https://www.riken.jp/research/labs/aip/). I am into Reinforcement Learning (RL): (1) [JAX](https://github.com/google/jax) based RL for full utilization of GPU power, (2) Game AI research as a testbed for real world application, (3) Statistical RL.
