@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-I am selected as JSPS DC1 Fellow.
+I was selected as JSPS DC1 Fellow.
 
