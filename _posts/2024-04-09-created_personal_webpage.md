@@ -3,7 +3,6 @@ layout: post
 title: 個人ページ作りました．
 date: 2024-04-09 16:11:00-0400
 description: 博士になったし，みんな持ってるし，個人ページ作ったほうがいいかなと思って作りました．意外と時間かかりました．
-tags:
 categories: ジブリッシュ
 featured: false
 ---
