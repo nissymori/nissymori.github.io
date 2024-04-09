@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: [CV](https://nissymori.github.io/assets/pdf/CV.pdf) / [Google Scholar](https://scholar.google.co.jp/citations?user=swJkeuUAAAAJ&hl=ja&oi=ao) / [GitHub](https://github.com/nissymori) / [Twitter (X)](https://twitter.com/nissymori1)
 
 profile:
   align: left
