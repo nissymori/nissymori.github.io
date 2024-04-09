@@ -16,13 +16,11 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "RIKEN Center for Advanced Intelligence Project (AIP)",
+      "position": "Research Part-time Worker I",
+      "url": "https://www.riken.jp/en/research/labs/aip/index.html",
+      "startDate": "2024-04-01",
+      "endDate": "Present"
     }
   ],
   "volunteer": [
