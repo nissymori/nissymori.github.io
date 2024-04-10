@@ -25,12 +25,12 @@ featured: false
 
 **ステップ1**: テンプレートページをデプロイする．
 
-ここでは，https://<github user name>.github.ioを検索すると，テンプレートである，アインシュタインの個人ページが表示される状態になることを目指します．
-1. [aI-folio](https://github.com/alshedivat/al-folio)の右上にある`Use this template`をクリックして，`<your user name>.github.io`と言う名前のレポジトリを作りましょう．この際, `Include all branches`にチェックをつけましょう．
+ここでは，https://$YOUR USER NAME$.github.ioを検索すると，テンプレートである，アインシュタインの個人ページが表示される状態になることを目指します．
+1. [aI-folio](https://github.com/alshedivat/al-folio)の右上にある`Use this template`をクリックして，`$YOUR USER NAME$.github.io`と言う名前のレポジトリを作りましょう．この際, `Include all branches`にチェックをつけましょう．
 
 2. `Setting -> Actions -> General -> Workflow permission`にいき，`Read and write permission`の権限をGithub Actionに与えてください．
 
-3. `_config.yaml`の`url`を`https://<your user name>.github.io`に変更し，`baseurl`の値を消してください．(**baseurl**と言うkeyは消さないでください)
+3. `_config.yaml`の`url`を`https://$YOUR USER NAME$.github.io`に変更し，`baseurl`の値を消してください．(**baseurl**と言うkeyは消さないでください)
 
 4. `Settings -> Pages -> Build and deployment`で，`branch`を`gh-pages`(github pagesでデプロイするためのbranch)に変更してください．
 
