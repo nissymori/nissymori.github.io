@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Soichiro
 last_name: Nishimori
-email: nishimori@ms.u-tokyo.ac.jp
+email: nishimori@ms.k.u-tokyo.ac.jp
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Soichiro Nishimori's personal website.
 footer_text: >
