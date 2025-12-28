@@ -84,7 +84,7 @@ Liu先生から，「ビザは大体1ヶ月くらいで取れるので，7-8月�
 - [Flatmate](https://flatmates.com.au/list): シェアハウス専門の賃貸検索サイト 1week - long-termまで幅広い期間で探せる．私はこれを使った．
 - Facebook Marketplace: `Sydney Accommodation`とかで検索すると，部屋を貸したい人が部屋の情報を載せていたりする．ワーホリの人のブログを見ると使っている人多いが，検索性がイマイチだったのでやめておいた．
 - [Gumtree](https://www.gumtree.com.au/): ジモティーの強い版みたいな感じだと思う．現地の電話番号がないとサインアップできない．これも使っている人が多かったので，これも使ってもよかったかもしれない．
-- [Realestate](https://www.realestate.com.au/): オーストラリアの不動産サイト，short-time leaseもあると書いているが，基本は6ヶ月以上の長期滞在者向けっぽい．
+- [Realestate](): オーストラリアの不動産サイト，short-time leaseもあると書いているが，基本は6ヶ月以上の長期滞在者向けっぽい．
 
 上述のように私はFlatmateで探しました．
 選択肢も豊富にあってオーナーに簡単にメッセージを送れるのでよかったです．
