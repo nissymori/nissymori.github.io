@@ -1,7 +1,7 @@
 ---
 layout: post
 title: シドニー大学滞在記 (準備編)
-date: 2024-07-11 16:11:00-0400
+date: 2025-10-11 16:11:00-0400
 description: 先延ばし癖のせいで大変なことになりました．
 categories: development RL
 featured: false
