@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I releaced JAX-based Mahjong simulator, [Mahjax](https://github.com/nissymori/mahjax)
+I releaced JAX-based Mahjong simulator, [Mahjax](https://github.com/nissymori/mahjax) 🀄️
