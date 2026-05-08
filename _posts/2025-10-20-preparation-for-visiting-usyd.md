@@ -46,11 +46,11 @@ Liu先生から，「ビザは大体1ヶ月くらいで取れるので，7-8月�
 大学の方とLiu先生に，事情を説明して滞在が伸びるかもしれないと連絡して，とりあえずビザの申請手続きに移りました．
 一刻も早くビザを申請しなければならないということで，大学から勧められたビザ申請エージェント(現地の弁護士)を利用しました(10万円程度)．
 
-今回のビザ申請(Subclass 408 (Research))では以下の書類を用意しました．
+今回のビザ申請(Subclass 408 (Research))では以下の書類を用意しました(2025年9月時点)．
 
 - Invitation letter
 - 留学計画書
-- 資金証明書類: 東大にお願いして，英語でevidence for fundingを出してもらいました．自分で行く場合は，銀行の残高証明書(英語)が必要みたいです．三井住友銀行の場合，2週間くらいかかるので，やはり前もって前もって準備するのが大切です．
+- 資金証明書類: 大学にお願いして，英語でevidence for fundingを出してもらいました．自分で行く場合は，銀行の残高証明書(英語)が必要みたいです．三井住友銀行の場合，2週間くらいかかるので，やはり前もって前もって準備するのが大切です．
 - マイナンバーカード，運転免許証の英語翻訳: オーストラリアのビザ申請では，国外にいる場合，第三者が翻訳したことを証明する翻訳証明書付きの翻訳文書を出す必要があります．そうしたサービスを提供している会社は結構あります．私は[翻訳のサムライ](https://www.honyakunosamurai.co.jp/)を利用しました(対応が迅速でよかったです)．一通1万円程度です.
 - 保険加入証明: オーストラリアでは，多くのビザで8501条件(適切な保険はいっとけよ条件)が課されているので([対象ビザ一覧](https://immi.homeaffairs.gov.au/supporting/files/visas-subject-condition-8501.pdf))，事前に保険に入っている必要があります．複数の会社が[Overseas Visitor Health Cover (OVHC)](https://privatehealth.gov.au/health_insurance/overseas/overseas_visitors_health_cover.htm)という外国からの滞在者向けの医療保険を提供しているので，加入する必要があります．自分は月1万円の[Bupaのessential lite plan](https://www.bupa.com.au/health-insurance/overseas-visitors/cover/essential-lite-visitors-cover)に加入しました．加入の際は，その保険が8501条件を満たしていることを確認する必要があります．
 学生ビザの場合，[Overseas Student Health Cover (OSHC)](https://privatehealth.gov.au/health_insurance/overseas/overseas_student_health_cover.htm)というもっと安い保険があるので，そちらを加入したほうがいいです．
@@ -71,7 +71,7 @@ Liu先生から，「ビザは大体1ヶ月くらいで取れるので，7-8月�
 
 ワーホリの方の体験記や，知人の情報等を総合して重要と思われるポイントを記します．
 
-1. 渡航後は1-2週間借りのホテル/Airbnbに滞在して内見
+1. 渡航後は1-2週間仮のホテル/Airbnbに滞在して内見
 
 家探しは，後述しますがFlatmate, Facebook Marketplace, Gumtree(オーストラリアの電話番号ないとsign upできない)を使って探すのが常道なのですが，いずれにしても詐欺が多く，必ず内見をしてから決めるのが重要のようです．
 よくあるのは，存在しない家の写真をのせて，渡航前に不安を煽ってbond(敷金的なやつ)を払わせるというケースのようです．
@@ -83,7 +83,7 @@ Liu先生から，「ビザは大体1ヶ月くらいで取れるので，7-8月�
 代表的なものは
 - [Flatmate](https://flatmates.com.au/list): シェアハウス専門の賃貸検索サイト 1week - long-termまで幅広い期間で探せる．私はこれを使いました．
 - Facebook Marketplace: `Sydney Accommodation`とかで検索すると，部屋を貸したい人が部屋の情報を載せていたりする．ワーホリの人のブログを見ると使っている人多いですが，検索性がイマイチだったので今回は使いませんでした.
-- [Gumtree](https://www.gumtree.com.au/): ジモティーの強い版みたいな感じだと思います．現地の電話番号がないとサインアップできなです．これも使っている人が多かったので，これも使ってもよかったかもしれない．
+- [Gumtree](https://www.gumtree.com.au/): ジモティーの強い版みたいな感じだと思います．現地の電話番号がないとサインアップできないです．これも使っている人が多かったので，これも使ってもよかったかもしれない．
 
 上述のように私はFlatmateで探しました．
 選択肢も豊富にあってオーナーに簡単にメッセージを送れるのでよかったです．
