@@ -20,6 +20,8 @@ I am Soichiro Nishimori, a PhD student at [Sugiyama-Yokoya-Ishida lab](https://w
 
 I previously interned at [OMRON SINIC X Corporation](https://www.omron.com/sinicx/) supervised by [Dr. Yoshitaka Ushiku](https://yoshitakaushiku.net/index.html) and [Dr. Atsushi Hashimoto](https://atsushihashimoto.github.io/cv/) and [Matsuo-Iwasawa lab at The University of Tokyo](https://weblab.t.u-tokyo.ac.jp/en/) supervised by [Prof. Paavo Parmas](https://scholar.google.com/citations?user=IXbKCUYAAAAJ&hl=en).
 
+Mahjong 🀄️ and Tennis 🎾 lover.
+
 
 ## Research Interests
 
