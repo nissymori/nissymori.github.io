@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ## About Me
 I am Soichiro Nishimori, a PhD student at [Sugiyama-Yokoya-Ishida lab](https://www.ms.k.u-tokyo.ac.jp/) supervised by [Prof. Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/index.html). Also, I am working as a research part-timer in Imperfect-information Learning Team at [RIKEN AIP](https://www.riken.jp/research/labs/aip/).
 
-I previously interned at [OMRON SINIC X Corporation](https://www.omron.com/sinicx/en/) and Matsuo-Iwasawa lab at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
+I previously interned at [OMRON SINIC X Corporation](https://www.omron.com/sinicx/) and [Matsuo-Iwasawa lab at The University of Tokyo](https://weblab.t.u-tokyo.ac.jp/en/).
 
 
 ## Research Interests
