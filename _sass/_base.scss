@@ -4,6 +4,10 @@
 
 // Typography
 
+body {
+  font-family: "Literata", Georgia, serif;
+}
+
 p,
 h1,
 h2,
@@ -455,6 +459,14 @@ footer.fixed-bottom {
   }
 }
 
+// Keep the fixed footer on two lines (within the body's 70px bottom padding) on ~375px phones
+@media (max-width: 576px) {
+  footer.fixed-bottom .container {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+}
+
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
@@ -657,74 +669,62 @@ footer.sticky-bottom {
 // Publications
 
 .publications {
-  margin-top: 2rem;
+  // Selected / All switch on the about page
+  .publication-filter {
+    margin-bottom: 1.5rem;
 
-  h1 {
-    color: var(--global-theme-color);
-    font-size: 2rem;
-    text-align: center;
-    margin-top: 1em;
-    margin-bottom: 1em;
-  }
+    button {
+      padding: 0;
+      margin-right: 1.5rem;
+      border: none;
+      background: none;
+      color: var(--global-text-color);
+      font-size: 1.1rem;
+      cursor: pointer;
 
-  h2 {
-    margin-bottom: 1rem;
+      &.active {
+        font-weight: bold;
+      }
 
-    span {
-      font-size: 1.5rem;
+      &:hover:not(.active) {
+        color: var(--global-theme-color);
+      }
+
+      &:focus-visible {
+        outline-offset: 3px;
+      }
     }
   }
 
+  &.show-selected .pub-entry:not(.selected-paper) {
+    display: none;
+  }
+
+  // Every entry shows its own year, so the year group headings are hidden
   h2.bibliography {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
-    margin-bottom: -2rem;
-    text-align: right;
+    display: none;
   }
 
   ol.bibliography {
     list-style: none;
     padding: 0;
-    margin-top: 0;
+    margin: 0;
 
     li {
-      margin-bottom: 1rem;
-
-      .preview {
-        width: 100%;
-        min-width: 80px;
-        max-width: 200px;
-      }
-
-      .abbr {
-        height: 2rem;
-        margin-bottom: 0.5rem;
-
-        abbr {
-          display: inline-block;
-          background-color: var(--global-theme-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-
-          a {
-            color: white;
-
-            &:hover {
-              text-decoration: none;
-            }
-          }
-        }
-
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
-        }
+      .pub-entry {
+        margin-bottom: 1.5rem;
+        border-left: 3px solid var(--global-text-color);
+        padding-left: 1rem;
       }
 
       .title {
-        font-weight: bolder;
+        font-size: 1.15rem;
+      }
+
+      .author,
+      .periodical,
+      .links {
+        margin-top: 0.2rem;
       }
 
       .author {
@@ -738,8 +738,8 @@ footer.sticky-bottom {
         }
 
         > em {
-          border-bottom: 1px solid;
           font-style: normal;
+          font-weight: bold;
         }
 
         > span.more-authors {
@@ -754,23 +754,54 @@ footer.sticky-bottom {
         }
       }
 
-      .links {
-        a.btn {
+      .periodical {
+        position: relative;
+        min-height: 1.5em;
+        padding-right: 3.5rem; // room for the year
+
+        // dimmed with opacity because the dark theme's --global-text-color-light equals the text color
+        .venue {
           color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
-          margin-left: 0;
+          opacity: 0.55;
+        }
+
+        .pub-note,
+        .award {
+          display: inline-block;
+        }
+
+        .award {
+          color: var(--global-highlight-color);
+          font-weight: bold;
+          cursor: pointer;
+        }
+
+        .year {
+          position: absolute;
+          top: 0;
+          right: 0;
+        }
+      }
+
+      .links {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        line-height: 1.2;
+
+        a {
+          color: var(--global-theme-color);
+          cursor: pointer;
 
           &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
+            text-decoration: underline;
           }
         }
-        a.award.btn {
-          border-color: var(--global-highlight-color);
+
+        a + a {
+          margin-left: 0.5rem;
+          padding-left: 0.5rem;
+          border-left: 1px solid var(--global-text-color);
         }
       }
 

@@ -15,6 +15,14 @@ $(document).ready(function () {
     $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
     $(this).parent().parent().find(".bibtex.hidden").toggleClass("open");
   });
+  // switch the publication list between selected and all papers
+  $(".publication-filter button").click(function () {
+    $(this)
+      .closest(".publications")
+      .toggleClass("show-selected", $(this).data("filter") == "selected");
+    $(this).addClass("active").attr("aria-pressed", "true");
+    $(this).siblings().removeClass("active").attr("aria-pressed", "false");
+  });
   $("a").removeClass("waves-effect waves-light");
 
   // bootstrap-toc

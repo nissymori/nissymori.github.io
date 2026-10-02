@@ -1,3 +1,7 @@
-<div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+<div class="publications show-selected">
+  <div class="publication-filter">
+    <button type="button" class="active" data-filter="selected" aria-pressed="true">🌟 Selected</button>
+    <button type="button" data-filter="all" aria-pressed="false">🌐 All</button>
+  </div>
+  {% bibliography %}
 </div>

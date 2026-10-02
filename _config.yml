@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Soichiro
 last_name: Nishimori
-email: nishimori@ms.k.u-tokyo.ac.jp
+email: soichiro.nishimori711@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Soichiro Nishimori's personal website.
 footer_text: >
@@ -322,12 +322,10 @@ enable_publication_badges:
 filtered_bibtex_keywords:
   [abbr, abstract, altmetric, arxiv, award, award_name, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website]
 
-# Maximum number of authors to be shown for each publication (more authors are visible on click)
+# Number of authors shown before the rest are folded (more authors are visible on click).
+# A list is only folded when at least two authors would be hidden.
 max_author_limit: 3 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
-
-# Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
-enable_publication_thumbnails: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
