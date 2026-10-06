@@ -7,7 +7,7 @@ module Jekyll
         site = context.registers[:site]
         converter = site.find_converter_instance(::Jekyll::Converters::Markdown)
         body = converter.convert(super(context).strip).gsub(/<\/?p[^>]*>/, '').chomp
-        "<span class=\"blue\">#{body}</span>"
+        "<span class=\"link-colored-text\">#{body}</span>"
       end
     end
   end
