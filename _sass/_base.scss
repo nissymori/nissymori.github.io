@@ -1158,3 +1158,8 @@ swiper-container {
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
 }
+
+// Inline text colored like links: {% blue %}text{% endblue %} or <span class="blue">text</span>
+.blue {
+  color: var(--global-theme-color);
+}
