@@ -2,9 +2,6 @@
 layout: post
 title: 個人ページ作りました．
 date: 2024-04-09 16:11:00-0400
-description:
-categories: ジブリッシュ
-featured: false
 ---
 
 ### 個人ページ作らむと欲す．

@@ -2,9 +2,6 @@
 layout: post
 title: シドニー大学留学記録(準備編)
 date: 2026-04-07 16:11:00+0900
-description:
-categories: 留学
-featured: false
 ---
 
 
